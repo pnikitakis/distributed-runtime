@@ -1,5 +1,5 @@
 # distributed-runtime
-University project for Distributed Systems (Spring 2018). 
+Runtime that executes SimpleScript programs in a distrubuted system. University project for Distributed Systems (Spring 2018).
 
 ## Description
 - Stage A: Execute programs written in a custom programming language called SimpleScript.  
