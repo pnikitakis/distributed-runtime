@@ -1,11 +1,13 @@
 # distributed-runtime
 University project for Distributed Systems (Spring 2018). 
 
-Stage A: Execute programs written in a custom programming language called SimpleScript (see SimpleScript_syntax.png).  
-Stage B: Make the runtime distributed where machines discover each other and run the programs remotely if they are in another machine.  
-Stage C: Dynamic code migration. Migrate running programs to a new machine and continue execution from the same line.  
+## Description
+- Stage A: Execute programs written in a custom programming language called SimpleScript (see SimpleScript_syntax.png).  
+- Stage B: Make the runtime distributed where machines discover each other and run the programs remotely if they are in another machine.  
+- Stage C: Dynamic code migration. Migrate running programs to a new machine and continue execution from the same line.  
 
-- `Configuraton.py` file defines whether the execution will be distributed (True) or not (False).
+## How to run
+`Configuraton.py` file defines whether the execution will be distributed (True) or not (False).
 
 - For stage A: Set false the Configuraton file.  Use the commands run for implementing the code, list for listing the existings programs and kill for terminating a specific program.
 
