@@ -2,9 +2,11 @@
 University project for Distributed Systems (Spring 2018). 
 
 ## Description
-- Stage A: Execute programs written in a custom programming language called SimpleScript (see SimpleScript_syntax.png).  
+- Stage A: Execute programs written in a custom programming language called SimpleScript.  
 - Stage B: Make the runtime distributed where machines discover each other and run the programs remotely if they are in another machine.  
 - Stage C: Dynamic code migration. Migrate running programs to a new machine and continue execution from the same line.  
+
+A visual representation of the system can be found [here](https://github.com/pnikitakis/distributed-runtime/blob/main/Visual%20representation.pdf).
 
 ## SimpleScript syntax
 ![SimpleScript syntax](https://github.com/pnikitakis/distributed-runtime/blob/main/SimpleScript_syntax.png)
