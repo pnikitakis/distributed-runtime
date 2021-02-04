@@ -30,4 +30,5 @@ The `configuraton.py` file defines whether the execution will be distributed (Tr
 - [Kalliopi Rantou](https://www.linkedin.com/in/kalliopi-rantou-6564981b4/)
 
 ## Course website
-[ECE348 Distributed Systems](https://www.e-ce.uth.gr/studies/undergraduate/courses/ece348/?lang=en)
+[ECE348 Distributed Systems](https://www.e-ce.uth.gr/studies/undergraduate/courses/ece348/?lang=en)  
+Assigment instructions can be found [here](https://github.com/pnikitakis/distributed-runtime/blob/main/assigment_instructions_GR.pdf) **in Greek**.
